@@ -17,7 +17,7 @@ Universidade Federal Fluminense (UFF) - Sistemas de Informação <br>
 COTI Informática - WebDeveloper em Java (Curso preparatório para mercado de trabalho em Java) <br>
 3 º Semestre - Finalização em 2020
 
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
+[_Clique aqui para ver as disciplinas do curso._](COTI.md)
 
 ## Experência Profissional
 
