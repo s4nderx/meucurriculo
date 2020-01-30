@@ -1,4 +1,4 @@
-###JAVA ORIENTADO A OBJETOS E MODELAGEM UML 
+### JAVA ORIENTADO A OBJETOS E MODELAGEM UML 
 
   * Diagrama de Classes e notação UML
   * Estruturas Lógicas e de comparação
@@ -60,7 +60,7 @@ Connection
 PreparedStatement
 ResultSet
 
-###JAVA 8 
+### JAVA 8 
 
 Lambda
 Streams e Collectors
@@ -72,9 +72,9 @@ Coletores e Listas
 Mapeando, particionando, agrupando e paralelizando
 GroupingBy e partitioningBy
 
-###JAVA PARA WEB
+### JAVA PARA WEB
 
-####JSP, Servlets, JavaBeans e JSTL
+#### JSP, Servlets, JavaBeans e JSTL
 
 Desenvolvimento de aplicações web Java utilizando o padrão MVC com banco de dados.
 Obtendo e configurando servidores java web
@@ -123,7 +123,7 @@ Persistência de dados
 CRUD e SQL
 Integração com MySQL, Oracle e MongoDB
 
-####Hibernate 5.0 e JPA 
+#### Hibernate 5.0 e JPA 
 
 Introdução ao Hibernate
 O conceito de persistência de dados Orientado a Objetos através do Hibernate
@@ -156,7 +156,7 @@ Filtragem e comparação de dados
 API de Consulta Criteria
 Integração do Hibernate com MySql, Oracle e Postgre
 
-####NoSql e MongoDB
+#### NoSql e MongoDB
 
 Entendendo o paradigma não relacional
 Armazenamento de dados baseado em documentos
@@ -173,7 +173,7 @@ DbCollection
 Implementando o CRUD em Java
 Java Server Faces 2.0 com Primefaces
 
-####JSF - Java Server Faces 
+#### JSF - Java Server Faces 
 
 Padrão ManagedBean
 O Arquivo faces-config.xml
@@ -215,7 +215,7 @@ Formato PDF
 Integração do Ireport com JSF
 Agrupamento de dados
 
-####Oracle SQL 
+#### Oracle SQL 
 
 Variáveis e funções da base de dados
 Entidades e Atributos
@@ -234,7 +234,7 @@ Joins (Left, right, inner, natural)
 SubQueries
 Funções
 
-####WebServices / Rest
+#### WebServices / Rest
 
 Desenvolvendo WebServices em Java
 Criando Classes de Serviço
@@ -247,9 +247,9 @@ Descreva as vantagens e desvantagens da arquitetura REST para serviços da Web
 Controlar despachar métodos de serviço com base em URL, tipo de consumidor e métodos HtTP
 Compreenda como lidar corretamente com exceções dentro de um serviço da Web RESTful
 
-###MOBILE
+### MOBILE
 
-####Android 
+#### Android 
 
 Configurando o Android
 Iniciando no ambiente Android
@@ -282,9 +282,9 @@ Criação de API key Google (chave de acesso)
 Galeria de Imagens e Videos
 Criação de APK e instalação no celular
 
-###FRONT-END
+### FRONT-END
 
-####Angular 8
+#### Angular 8
 
 Lista, Vetor, Mock
 Componentes
@@ -295,7 +295,7 @@ Consumindo uma API REST
 Bootstrap 4.3
 Css 3
 
-####React 
+#### React 
 
 O que é REact JS
 Ecma6
@@ -312,9 +312,9 @@ Router (Rotas)
 API
 JSON
 
-###SERVIDOR DE APLICAÇÃO
+### SERVIDOR DE APLICAÇÃO
 
-####JBoss 
+#### JBoss 
 
 A Arquitetura J2EE
 Instalação do Ambiente Java
@@ -325,7 +325,7 @@ Configuração e Instalação do Servidor
 Implantando aplicações no servidor JBOSS
 Deploy
 
-####Maven 
+#### Maven 
 
 Introdução ao Apache Maven
 Configuração e Instalação
@@ -337,7 +337,7 @@ Local
 Interno
 Externo
 
-####Spring MVC
+#### Spring MVC
 
 Autowired
 Introdução aos principais conceitos do SpringFramework
@@ -357,7 +357,7 @@ ModelAndView
 Map
 Report (relatório)
 
-####SpringBoot  
+#### SpringBoot  
 
 Apresentação
 Introdução, objetivo de uso
@@ -379,7 +379,7 @@ Spring Security Rest (padrão Bearer)
 ResponseBody
 ResponseEntity
 
-####Microserviços
+#### Microserviços
 
 Conceitos básicos de microservices
 Criar microservices em java usando o String cloud para fazer comunicação síncrona entre microservices e assincrona
