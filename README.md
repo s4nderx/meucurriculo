@@ -17,6 +17,12 @@ Universidade Federal Fluminense (UFF) - Sistemas de Informação <br>
 COTI Informática - WebDeveloper em Java (Curso preparatório para mercado de trabalho em Java) <br>
 Finalizado em 2020
 
+Cultura Inglesa - Cultura Express <br>
+Finalizado em 2019
+
+Cultura Inglesa - Cultura Adults <br>
+Finalização em 2022
+
 [_Clique aqui para ver as disciplinas do curso._](COTI.md)
  
 ## Experência Profissional
@@ -114,7 +120,7 @@ Assistente de Tecnologia da Informação. <br>
 ## Projetos
 * [Site Pessoal](#)
 
-## Cursos Completos
+## Cursos
 * Java Web Developer – COTI Informática
 * Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB – Udemy
 * Design Multimídia (Gráfico e Web) – Zion (Interrompido)
