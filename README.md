@@ -96,10 +96,12 @@ Assistente de Tecnologia da Informação. <br>
 * Hibernate.
 * Maven.
 * REST.
-* JWT.
+* JSON Web Tokens (JWT).
 * S3.
 * Node Js.
-* Apache Tomcat.
+
+### Servidor Web
+* Apache.
 * Websphere.
 
 ### Ferramentas
