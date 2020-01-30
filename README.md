@@ -22,14 +22,15 @@ COTI Informática - WebDeveloper em Java (Curso preparatório para mercado de tr
 ## Experência Profissional
 
 * **Ebix Latin America** - Estagiário em desenvolvimento Java. <br>
-(ago/2019 -  Atual) <br>
+(ago/2019 -  Atual)
   * Colaborar no desenvolvimento de sistemas Web em Java.
   * Corrigir bugs nos projetos e desenvolver novas funcionalidades e melhorias.
 
 
-* (mai/2019 -  ago/2019) <br>
-**Fundação CEPERJ (Centro Estadual de Estatísticas, Pesquisas e Formação de Servidores Públicos do Rio de Janeiro)** -
-Assistente de Tecnologia da Informação.
+ 
+* **Fundação CEPERJ (Centro Estadual de Estatísticas, Pesquisas e Formação de Servidores Públicos do Rio de Janeiro)** -
+Assistente de Tecnologia da Informação. <br>
+(mai/2019 -  ago/2019)
   * Sustentação do site da empresa. 
   * Suporte de primeiro atendimento à usuários. 
   * Suporte à infraestrutura de informática da empresa. 
@@ -37,9 +38,9 @@ Assistente de Tecnologia da Informação.
   * Administração de servidor de AD.
 
 
-* (ago/2017 -  mai/2019) <br>
-**Imprensa Oficial do Estado do Rio de Janeiro** -
-Estagiário em desenvolvimento PHP.
+
+**Imprensa Oficial do Estado do Rio de Janeiro** - Estagiário em desenvolvimento PHP. <br>
+(ago/2017 -  mai/2019) 
   * Sustentação do site da empresa. 
   * Desenvolvimento e documentação dos sites: [Certificado Digital](http://certificadodigital.ioerj.com.br), [Lei de Acesso a Informação - LAI](http://lai.ioerj.com.br/), [O Prelo](http://oprelo.ioerj.com.br/), utilizando WordPress.
   * Suporte à usuários dos sistemas internos desenvolvidos em PHP e MySql.
