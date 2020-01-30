@@ -39,7 +39,7 @@ Assistente de Tecnologia da Informação. <br>
 
 
 
-**Imprensa Oficial do Estado do Rio de Janeiro** - Estagiário em desenvolvimento PHP. <br>
+* **Imprensa Oficial do Estado do Rio de Janeiro** - Estagiário em desenvolvimento PHP. <br>
 (ago/2017 -  mai/2019) 
   * Sustentação do site da empresa. 
   * Desenvolvimento e documentação dos sites: [Certificado Digital](http://certificadodigital.ioerj.com.br), [Lei de Acesso a Informação - LAI](http://lai.ioerj.com.br/), [O Prelo](http://oprelo.ioerj.com.br/), utilizando WordPress.
