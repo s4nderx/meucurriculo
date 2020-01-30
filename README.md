@@ -1,5 +1,5 @@
 # Phellipe Sander
-Desenvolvedor Web - Junior.
+OBJETIVO: Desenvolvedor Web - Junior.
 
 :house:      Itaboraí/RJ <br>
 :iphone:     (21) 97132 - 5813 <br>
