@@ -12,7 +12,7 @@ Nas horas vagas eu gosto de ouvir músicas ou podcasts, jogar Cs:GO e ler.
 Universidade Federal Fluminense (UFF) - Sistemas de Informação <br>
 1º Semestre - Finalização em 2024
 
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
+[_Clique aqui para ver as disciplinas docurso.](http://www.ic.uff.br/images/documentos/sistemas_de_informacao/arquivos/Curriculo/PPC_COMPLETO.pdf)
 
 COTI Informática - WebDeveloper em Java (Curso preparatório para mercado de trabalho em Java) <br>
 3 º Semestre - Finalização em 2020
