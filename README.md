@@ -18,7 +18,7 @@ COTI Informática - WebDeveloper em Java (Curso preparatório para mercado de tr
 3 º Semestre - Finalização em 2020
 
 [_Clique aqui para ver as disciplinas do curso._](COTI.md)
-
+ 
 ## Experência Profissional
 
 * **Ebix Latin America** - Estagiário em desenvolvimento Java. <br>
