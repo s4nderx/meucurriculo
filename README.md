@@ -20,9 +20,9 @@ COTI Informática - WebDeveloper em Java (Curso preparatório para mercado de tr
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
 
 ## Experência Profissional
-* (ago/2019 -  Atual) <br>
-**Ebix Latin America** -
-Estagiário em desenvolvimento Java.
+
+* **Ebix Latin America** - Estagiário em desenvolvimento Java.
+(ago/2019 -  Atual) <br>
   * Colaborar no desenvolvimento de sistemas Web em Java.
   * Corrigir bugs nos projetos e desenvolver novas funcionalidades e melhorias.
 
