@@ -9,7 +9,7 @@ Meu nome é Phellipe Sander, sou apaixonado por tecnologia como um todo, pois ac
 Nas horas vagas eu gosto de ouvir músicas ou podcasts, jogar Cs:GO e ler.
 
 ## Formação
-Universidade Federal Fluminense - Sistemas de Informação <br>
+Universidade Federal Fluminense (UFF) - Sistemas de Informação <br>
 1º Semestre - Finalização em 2024
 
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
