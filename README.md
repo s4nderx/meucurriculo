@@ -2,7 +2,7 @@
 Desenvolvedor Web - Junior.
 
 :house:      Itaboraí/RJ <br>
-:iphone:     21) 97132 - 5813 <br>
+:iphone:     (21) 97132 - 5813 <br>
 :envelope:   psanderguimaraes@gmail.com
 
 Meu nome é Phellipe Sander, sou apaixonado por tecnologia como um todo, pois acho mágico como com a tecnologia podemos fazer coisas incríveis! Atualmente trabalho com Java e estudo JavaScript (Node Js, React e React Native).
