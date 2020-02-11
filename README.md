@@ -5,7 +5,7 @@ Cidade:   Itaboraí/RJ <br>
 Teledone: (21) 97132 - 5813 <br>
 Email:    psanderguimaraes@gmail.com
 
-Meu nome é Phellipe Sander, sou apaixonado por tecnologia como um todo, pois acho mágico como com a tecnologia podemos fazer coisas incríveis! Atualmente trabalho com Java e estudo JavaScript (Node Js, React e React Native).
+Meu nome é Phellipe Sander, sou apaixonado por tecnologia como um todo, pois acho mágico como com a tecnologia podemos fazer coisas incríveis! Atualmente trabalho com Java, porém aberto a novos desafios e ao aprendizado de novas tecnologias.
 Nas horas vagas eu gosto de ouvir músicas ou podcasts, jogar Cs:GO e ler.
  
 ## Experência Profissional
