@@ -7,6 +7,36 @@ Email:    psanderguimaraes@gmail.com
 
 Meu nome é Phellipe Sander, sou apaixonado por tecnologia como um todo, pois acho mágico como com a tecnologia podemos fazer coisas incríveis! Atualmente trabalho com Java e estudo JavaScript (Node Js, React e React Native).
 Nas horas vagas eu gosto de ouvir músicas ou podcasts, jogar Cs:GO e ler.
+ 
+## Experência Profissional
+
+* **Ebix Latin America** - Estagiário em desenvolvimento Java. <br>
+(ago/2019 -  Atual)
+  * Atuo como como desenvolvedor da linguagem JAVA, utilizando frameworks Struts2, Spring, além de utilizar  JavaScritpt, Jquery, Ajax, implementando soluções para a área de componentes arquiteturais e serviços corporativos da BRADESCO SEGUROS
+  * Participo do desenvolvimento do projeto de componentes para disparo de e-mail, sms, e sms interativos, onde é utilizada a metodologia tradicional (Cascata).
+  * Participo do desenvolvimento do projeto de captação de leads, cotação de seguros e cálculo de apólices,  integrando o time ágil (Scrum);
+  * Participo do desenvolvimento do projeto de controle de integração sap para controle de comissões, onde é utilizada a metodologia ágil (Kanban).
+
+
+ 
+* **Fundação CEPERJ (Centro Estadual de Estatísticas, Pesquisas e Formação de Servidores Públicos do Rio de Janeiro)** -
+Assistente de Tecnologia da Informação. <br>
+(mai/2019 -  ago/2019)
+  * Atuei como Assistente de Tecnologia da Informação, utilizando CSS3, HTML5 e ferramentas de design gráfico na FUNDAÇÃO CEPERJ.
+  * Atuei na atualização visual do site desenvolvendo peças gráficas, desenvolvimento da nova logo e identidade visual.
+  * Realizava o atendimento e suporte à usuários realizando os atendimentos a chamados, manutenção de máquinas, problemas com softwares etc. 
+  * Era responsável administração do AD, gerenciamento de usuários e backup de arquivos e pela organização do servidor de arquivos do portal.
+  * Participei da montagem dos novos laboratórios de informática da fundação para os cursos de formação.
+
+
+
+* **Imprensa Oficial do Estado do Rio de Janeiro** - Estagiário em desenvolvimento PHP. <br>
+(ago/2017 -  mai/2019) 
+  * Atuei como desenvolvedor web da linguagem PHP, utilizando a plataforma WordPress, CSS3, HTML5, BootStrap e JavaScript além de utilizar ferramentas gráficas para o desenvolvimento de artes visuais da IMPRENSA OFICIAL DO ESTADO DO RIO DE JANEIRO.
+  * Desenvolvimento e documentação dos sites: [Certificado Digital](http://certificadodigital.ioerj.com.br), [Lei de Acesso a Informação - LAI](http://lai.ioerj.com.br/) e [O Prelo](http://oprelo.ioerj.com.br/), utilizando WordPress.
+  * Atuei na sustentação do sistema de acompanhamento de processos internos da empresa utilizando PHP e MySQL.
+  * Realizava suporte de primeiro atendimento à usuários. 
+  * Realizava a criação e design de imagens, logos e organograma da empresa.
 
 ## Formação
 Universidade Federal Fluminense (UFF) - Sistemas de Informação <br>
@@ -24,35 +54,6 @@ Finalizado em 2019
 
 Cultura Inglesa - Cultura Adults <br>
 Finalização em 2022
- 
-## Experência Profissional
-
-* **Ebix Latin America** - Estagiário em desenvolvimento Java. <br>
-(ago/2019 -  Atual)
-  * Colaborar no desenvolvimento de sistemas Web em Java.
-  * Corrigir bugs nos projetos e desenvolver novas funcionalidades e melhorias.
-
-
- 
-* **Fundação CEPERJ (Centro Estadual de Estatísticas, Pesquisas e Formação de Servidores Públicos do Rio de Janeiro)** -
-Assistente de Tecnologia da Informação. <br>
-(mai/2019 -  ago/2019)
-  * Sustentação no site instituicional. 
-  * Suporte de primeiro atendimento à usuários. 
-  * Suporte à infraestrutura de informática da empresa. 
-  * Criação e design de imagens, logos e peças gráficas.
-  * Administração de servidor de AD.
-
-
-
-* **Imprensa Oficial do Estado do Rio de Janeiro** - Estagiário em desenvolvimento PHP. <br>
-(ago/2017 -  mai/2019) 
-  * Sustentação no site instituicional.
-  * Desenvolvimento e documentação dos sites: [Certificado Digital](http://certificadodigital.ioerj.com.br), [Lei de Acesso a Informação - LAI](http://lai.ioerj.com.br/) e [O Prelo](http://oprelo.ioerj.com.br/), utilizando WordPress.
-  * Suporte à usuários dos sistemas internos desenvolvidos em PHP e MySql.
-  * Suporte de primeiro atendimento à usuários. 
-  * Criação e design de imagens, logos e organograma da empresa.
-
 
 ## Conhecimentos
 
